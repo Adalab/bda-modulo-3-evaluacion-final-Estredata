@@ -1,6 +1,4 @@
-﻿
-#EVALUACIÓN MÓDULO3: Estredata
-
+﻿#EVALUACIÓN MÓDULO3: Estredata
 #TRASFORMACIÓN DE DATOS 🚀
 
 Hola 👋🏽👋🏽
